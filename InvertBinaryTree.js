@@ -26,6 +26,7 @@
   };
 
   /**
+   * If the root is null, return null.
    * 
    */
   
