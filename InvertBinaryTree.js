@@ -14,6 +14,7 @@
     if (root) {
         swap(root);
         invertTree(root.left);
+        invertTree(root.right);
       }
   };
   
