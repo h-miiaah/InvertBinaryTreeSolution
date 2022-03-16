@@ -20,6 +20,6 @@
   };
 
   var swap = function (node) {
-    
+    var left = node.left;
   };
   
