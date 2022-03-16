@@ -12,7 +12,7 @@
  */
  var invertTree = function(root) {
     if (root) {
-        
+        swap(root);
       }
   };
   
