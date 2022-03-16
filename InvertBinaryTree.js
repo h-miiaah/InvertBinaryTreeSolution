@@ -28,6 +28,7 @@
   /**
    * If the root is null, return null.
    * Swap the left and right subtrees.
+   * Recursively invert the left subtree.
    * 
    */
   
