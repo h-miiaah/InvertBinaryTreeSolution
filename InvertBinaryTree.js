@@ -18,4 +18,8 @@
       }
       return root;
   };
+
+  var swap = function (node) {
+    
+  };
   
